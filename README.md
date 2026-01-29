@@ -22,6 +22,7 @@ I’m a detail-oriented professional blending **software engineering** with **qu
 ---
 
 ## 📊 Quality & Compliance Expertise
+- **Full-Stack Developer** with many implemented projects as a freelancer
 - **QC-IPC Supervisor Analyst** with hands-on experience in risk assessment  
 - **ISO 17025 Internal Audit Team Member** ensuring compliance and reliability  
 - Skilled in **documentation, auditing, and iterative workflow improvement**  
@@ -48,9 +49,9 @@ I’m a detail-oriented professional blending **software engineering** with **qu
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🌐 [Portfolio/Website](https://github.com/)  
-- 📧 Reach me at: *your.email@example.com*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-mahfouz/)  
+- 🌐 [Portfolio/Website](https://github.com/muhamadhamdy)  
+- 📧 Reach me at: *muhamad.hamdy@hotmail.com*  
 
 ---
 

@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Mohamed Hamdy  
 
+
+🚀 **Multidisciplinary Freelancer | Web Developer | Backend Systems | Cloud Services | Quality Control Specialist**  
+
+I’m a detail-oriented professional blending **software engineering** with **quality management**. My work spans from building scalable web applications to auditing compliance systems. I thrive on solving complex problems, automating workflows, and delivering high-quality results with precision and persistence.  
+
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,cs,dotnet,sql,aws,html,css,powershell,git" />
 </p>
-
-🚀 **Multidisciplinary Freelancer | Web Developer | Backend Systems | Cloud Services | Quality Control Specialist**  
-
-I’m a detail-oriented professional blending **software engineering** with **quality management**. My work spans from building scalable web applications to auditing compliance systems under **ISO 17025**. I thrive on solving complex problems, automating workflows, and delivering high-quality results with precision and persistence.  
 
 ---
 

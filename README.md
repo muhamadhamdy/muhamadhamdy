@@ -24,7 +24,7 @@ I’m a detail-oriented professional blending **software engineering** with **qu
 
 ## 📊 Quality & Compliance Expertise
 - **Full-Stack Developer** with many implemented projects as a freelancer
-- **QC-IPC Supervisor Analyst** with hands-on experience in risk assessment  
+- **QC Supervisor Analyst** with hands-on experience in risk assessment  
 - **ISO 17025 Internal Audit Team Member** ensuring compliance and reliability  
 - Skilled in **documentation, auditing, and iterative workflow improvement**  
 
